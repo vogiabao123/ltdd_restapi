@@ -25,7 +25,31 @@
       "username":"tai",
       "password":"123123",
       "fullname": "vo minh tai"
-    }
+    } {
+      "username": "ngoc",
+      "password": "ngocpass",
+      "fullname": "tran ngoc ha"
+    },
+    {
+      "username": "linh",
+      "password": "linh123",
+      "fullname": "nguyen hoang linh"
+    },
+    {
+      "username": "bao",
+      "password": "bao456",
+      "fullname": "le tan bao"
+    },
+    {
+      "username": "huyen",
+      "password": "huyen789",
+      "fullname": "nguyen thi huyen"
+    },
+    {
+      "username": "phong",
+      "password": "phong2024",
+      "fullname": "pham anh phong"
+    },
   ]
   
 }
