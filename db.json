@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "huong dan cach ngu 8 tieng trong 2 tieng",
+      "body": "huong dan chi tiet"
+
+    },
+    {
+      "id": 2,
+      "title": "huong dan an com",
+      "body": "huong dan chi tiet",
+      "base64Image": ""
+    },
+    {
+      "id": 3,
+      "title": "huong dan uong nuoc",
+      "body": "huong dan chi tiet",
+      "base64Image": ""
+    }
+ 
+  ],
+  "users":	[
+    {
+      "username":"tai",
+      "password":"123123",
+      "fullname": "vo minh tai"
+    }
+  ]
+  
+}
